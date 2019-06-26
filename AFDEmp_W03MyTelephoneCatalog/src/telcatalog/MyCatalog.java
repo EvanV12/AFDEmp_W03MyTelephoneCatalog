@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * @author Evangelos.Vergis
+ * @author Evangelos.Vergis //
  *
  */
 public class MyCatalog {
